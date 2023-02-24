@@ -1,0 +1,9 @@
+{
+    "name": "noah/stagiaire-mvc",
+    "autoload": {
+        "psr-4": {
+            "Stagiaire\\": "src/"
+        }
+    },
+    "require": {}
+}
